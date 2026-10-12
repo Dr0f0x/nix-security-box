@@ -53,7 +53,6 @@ mkShell {
     bore-cli
     braa
     brakeman
-    breads-ad
     brutecraber
     bruteforce-luks
     btop
@@ -88,7 +87,6 @@ mkShell {
     checksec
     chipsec
     chisel
-    chkrootkit
     chopchop
     chrony
     cifs-utils
@@ -270,12 +268,10 @@ mkShell {
     introspectre
     inxi
     ioc-scan
-    ioccheck
     iodine
     iotop
     ipcalc
     iperf2
-    iproute
     iproute2
     ipscan
     iputils
@@ -376,7 +372,7 @@ mkShell {
     nload
     nmap
     nmap-formatter
-    nodePackages.hyperpotamus
+    hyperpotamus
     nomore403
     noseyparker
     nosqli
@@ -436,35 +432,32 @@ mkShell {
     putty
     pwgen
     pwnat
-    pwndbg
     pwntools
     pysqlrecon
-    python3Packages.angr
-    python3Packages.angrop
-    python3Packages.binwalk
-    python3Packages.bleak
-    python3Packages.can
-    python3Packages.emv
-    python3Packages.hakuin
-    python3Packages.karton-core
-    python3Packages.lsassy
-    python3Packages.malduck
-    python3Packages.patator
-    python3Packages.pyi2cflash
-    python3Packages.pypykatz
-    python3Packages.pyspiflash
-    python3Packages.pytenable
-    python3Packages.r2pipe
-    python3Packages.safety
-    python3Packages.scalib
-    python3Packages.scapy
-    python3Packages.unicorn
+    python314Packages.angr
+    python314Packages.angrop
+    python314Packages.binwalk
+    python314Packages.bleak
+    python314Packages.python-can
+    python314Packages.emv
+    python314Packages.hakuin
+    python314Packages.karton-core
+    python314Packages.lsassy
+    python314Packages.malduck
+    python314Packages.pyi2cflash
+    python314Packages.pypykatz
+    python314Packages.pyspiflash
+    python314Packages.pytenable
+    python314Packages.r2pipe
+    python314Packages.safety
+    python314Packages.scalib
+    python314Packages.scapy
+    python314Packages.unicorn
     pywhisker
     qbom
     raccoon-scanner
     radamsa
     radare2
-    radare2-cutter
     rdap
     rdwatool
     reaverwps
@@ -541,7 +534,7 @@ mkShell {
     sslscan
     sslsplit
     sslstrip
-    stacs
+    # stacs creates issue with pulling unallowed pydantic version for python314
     stave
     stegseek
     step-cli
@@ -575,7 +568,7 @@ mkShell {
     theharvester
     tldfinder
     tldx
-    tlsanalyser
+    tlsanalyzer
     tlsinfo
     tlsx
     tmux
@@ -597,13 +590,12 @@ mkShell {
     unblob
     uncover
     unicorn
-    unicorn-emu
     unrar
     unzip
     urlfinder
     urlhunter
     urx
-    utillinux
+    util-linux
     varunastra
     vegeta
     volatility3

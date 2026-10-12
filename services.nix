@@ -55,7 +55,7 @@
     wafw00f
 
     # Post-quantum
-    tlsanalyser
+    tlsanalyzer
     cryptoscan
     mini-pqc
     pqc-bench

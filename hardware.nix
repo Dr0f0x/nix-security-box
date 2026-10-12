@@ -19,11 +19,11 @@
     teensy-loader-cli
     termineter
     tytools
-    python3Packages.angr
-    python3Packages.angrop
-    python3Packages.can
-    python3Packages.pyi2cflash
-    python3Packages.pyspiflash
+    python314Packages.angr
+    python314Packages.angrop
+    python314Packages.python-can
+    python314Packages.pyi2cflash
+    python314Packages.pyspiflash
     # routersploit
   ];
 }

@@ -20,7 +20,7 @@
     nmap-formatter
     penelope
     pwntools
-    python3Packages.pytenable
+    python314Packages.pytenable
     snscrape
     sr2t
     sttr

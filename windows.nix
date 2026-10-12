@@ -9,7 +9,6 @@
     autobloody
     azurehound
     bloodhound-py
-    breads-ad
     chainsaw
     certi
     certipy
@@ -34,8 +33,8 @@
     offensive-azure
     powerview
     pre2k
-    python3Packages.lsassy
-    python3Packages.pypykatz
+    python314Packages.lsassy
+    python314Packages.pypykatz
     rdwatool
     samba
     sccmhunter

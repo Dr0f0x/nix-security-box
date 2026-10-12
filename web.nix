@@ -23,7 +23,6 @@
     dismap
     # dirsearch currently broken
     dirstalk
-    dontgo403
     forbidden
     galer
     gau
@@ -37,11 +36,11 @@
     graphw00f
     h2spec
     hakrawler
-    python3Packages.hakuin
+    python314Packages.hakuin
     hey
     http-server
     httpx
-    nodePackages.hyperpotamus
+    hyperpotamus
     introspectre
     jaeles
     jsubfinder

@@ -19,8 +19,6 @@
     hurl
     inetutils
     inxi
-    ioccheck
-    iproute
     iproute2
     iw
     lynx
@@ -31,7 +29,7 @@
     pwgen
     ronin
     spyre
-    utillinux
+    util-linux
     wget
     xh
     xnldorker
