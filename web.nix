@@ -14,7 +14,7 @@
     cariddi
     cf-hero
     chopchop
-    clairvoyance
+    # clairvoyance broken dependency on python aio-unnittest
     cogitator
     commix
     crackql

@@ -23,7 +23,7 @@
     ncftp
     netcat-gnu
     netdiscover
-    netexec
+    # netexec broken due to dependency on anyio 4.14.2
     nload
     nuttcp
     nxc-rs

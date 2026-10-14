@@ -6,7 +6,7 @@
   environment.systemPackages = with pkgs; [
     afflib
     amoco
-    acquire
+    # acquire broken due too dependecny on python313.dissect-target
     dcfldd
     ddrescue
     dislocker

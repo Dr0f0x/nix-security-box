@@ -19,8 +19,8 @@
     teensy-loader-cli
     termineter
     tytools
-    python314Packages.angr
-    python314Packages.angrop
+    # python314Packages.angr broken due too dependency on broken pydantic
+    # python314Packages.angrop
     python314Packages.python-can
     python314Packages.pyi2cflash
     python314Packages.pyspiflash

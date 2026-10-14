@@ -10,7 +10,7 @@
     corrode-scanner
     credential-detector
     credwolf
-    deepsecrets
+    # deepsecrets broken due to dependency on python3.14-pydantic
     detect-secrets
     errcheck
     freeze
