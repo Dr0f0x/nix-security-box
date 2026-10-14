@@ -4,7 +4,7 @@
 
 {
   environment.systemPackages = with pkgs; [
-    arp-scan
+    # arp-scan conflicst with arpscan rs
     arp-scan-rs
     arping
     arpoison
@@ -15,7 +15,7 @@
     evillimiter
     iperf2
     iputils
-    jwhois
+    # jwhois creates conflicts with whois
     lftp
     mdns-scanner
     mitm6

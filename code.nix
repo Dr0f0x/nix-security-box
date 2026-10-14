@@ -27,7 +27,7 @@
     osv-detector
     packj
     pip-audit
-    python314Packages.safety
+    # python314Packages.safety creates conflicsts with safety cli as both try to install the underlying library
     qbom
     search-vulns
     secrethound

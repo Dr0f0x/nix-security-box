@@ -5,7 +5,7 @@
 {
   environment.systemPackages = with pkgs; [
     cantoolz
-    chipsec
+    # chipsec broken due too test failig with unstable as chipsec is outdated there 1.13.20
     cmospwd
     embedxpl
     esptool

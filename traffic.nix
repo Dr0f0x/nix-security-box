@@ -21,7 +21,7 @@
     tcpflow
     tcpreplay
     termshark
-    wireshark
+    # wireshark having both wireshark and wiresahr cli breaks as both provide libwiretap.so.16.0.9
     wireshark-cli
     zeek
   ];

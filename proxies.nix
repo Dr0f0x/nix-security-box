@@ -13,6 +13,6 @@
     proxychains
     redsocks
     rshijack
-    zap
+    # zap needs extra setup
   ];
 }
